@@ -97,14 +97,17 @@ const checkForWin = () => {
     }
 
 
+    const reset = document.getElementById("reset");
+    reset.addEventListener('click', function() {
+        location.reload();
+    })
+};
 
 
 
 
+// } else if (moves[0] !== moves[1] && moves[0] !== moves[2]) {
 
-    // } else if (moves[0] !== moves[1] && moves[0] !== moves[2]) {
+//     alert("Sorry,You did not Win!");
 
-    //     alert("Sorry,You did not Win!");
-
-    // }
-}
+// }
