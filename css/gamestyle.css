@@ -54,3 +54,9 @@ button {
 button:hover {
     border: 2px inset red;
 }
+
+#winnerAlert {
+    color: limegreen;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+}
