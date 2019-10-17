@@ -8,8 +8,15 @@ User stories
 -  The Oprah player adheres to the Beyonce' philosophy , believing that women run the world ,and as that user, "Oh what a feeling world domination brings!"
 -  The Malcolm X users believe in the Xpanse/expanse of patriarchy, planting their X flag every where the user may strategicly choose to go.
 
-The technologies I implemented to bring my version of the game to fruition were a Wireframe, css file, Html file and Javascript file.
+The technologies I implemented to bring my version of the game to fruition were a Wireframe, css file, Html file and Javascript file. Along with a couple of locally stored images. I chose not to use a box to alert the winner; instead I wanted the message displayed right on the game.  
 
 ![Third eye vision](./images/Wireframe.png)
 
 
+I chose to also incorporate the Pan-African Flag. The three Pan-African colors on the flag represent: red: the blood that unites all people of Black African ancestry, and shed for liberation; black: black people whose existence as a nation, though not a nation-state, is affirmed by the existence of the flag; and. green: the abundant natural wealth of Africa.
+
+[The Mother land](https://medium.com/@SamanthaXADOS/red-black-and-green-the-african-liberation-flag-and-the-meaning-behind-it-7dd06fb8e6cf)
+
+what's left?
+well, In the future I may add some sounds, a timer, confetti with ballons and change the text font of the X's and O's. I wanted Oprah saying "You get a car, and you get a car", or “You can have it all. Just not all at once.” I wanted Malcolm X  when prompted to say "You need some action!", "We didn't land on
+Plymouth Rock" and "Who taught you to hate yourself!".
