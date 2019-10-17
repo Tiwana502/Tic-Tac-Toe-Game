@@ -1,4 +1,3 @@
-console.log("wired up");
 const moves = [];
 
 let playerOneTurn = true;
